@@ -25,7 +25,7 @@ kafka:
 zookeeper:
   version: 3.4.12
   installation_path: /etc
-  download_mirror: http://apache.rediris.es/zookeeper
+  download_mirror: https://archive.apache.org/dist/zookeeper
   configuration:
     port: 2181
     log_path: /var/log/zookeeper
